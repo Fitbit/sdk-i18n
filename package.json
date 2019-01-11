@@ -1,0 +1,24 @@
+{
+  "name": "sdk-i18n",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0",
+    "@fitbit/sdk-cli": "^1.5.0"
+  },
+  "fitbit": {
+    "appUUID": "c389a9b3-bd8b-44a8-840b-7fb9bf5fdfb8",
+    "appType": "app",
+    "appDisplayName": "SDK i18n",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ffffff",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ]
+  },
+  "scripts": {
+    "build": "fitbit-build",
+    "debug": "fitbit"
+  }
+}

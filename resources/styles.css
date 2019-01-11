@@ -1,0 +1,12 @@
+.background {
+  viewport-fill: black;
+}
+
+#demotext {
+  fill: white;
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 128;
+}
