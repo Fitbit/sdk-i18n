@@ -1,2 +1,65 @@
-msgid "hello_world"
-msgstr "Hola mundo"
+msgid "Active Minutes"
+msgstr "Minutos de actividad"
+
+msgid "Activity"
+msgstr "Actividad"
+
+msgid "calorie"
+msgstr "CALORÍA"
+
+msgid "Calorie count"
+msgstr "Recuento de calorías"
+
+msgid "Calories burned"
+msgstr "Calorías quemadas"
+
+msgid "challenge"
+msgstr "desafío"
+
+msgid "Clock + Display"
+msgstr "Reloj y pantalla"
+
+msgid "clock face"
+msgstr "formato del reloj"
+
+msgid "daily goal"
+msgstr "objetivo diario"
+
+msgid "daily stats"
+msgstr "estadísticas diarias"
+
+msgid "daily target"
+msgstr "objetivo diario"
+
+msgid "Distance"
+msgstr "Distancia"
+
+msgid "exercise mode"
+msgstr "Modo de ejercicio"
+
+msgid "exercise tracking"
+msgstr "Monitorización del ejercicio"
+
+msgid "Floors"
+msgstr "Plantas"
+
+msgid "Floors climbed"
+msgstr "Las plantas subidas"
+
+msgid "Get more steps!"
+msgstr "¡Da más pasos!"
+
+msgid "Goal"
+msgstr "Objetivo"
+
+msgid "Heart rate"
+msgstr "Ritmo cardiaco"
+
+msgid "Resting Heart Rate"
+msgstr "Ritmo cardiaco en reposo"
+
+msgid "stats"
+msgstr "estadísticas"
+
+msgid "Steps"
+msgstr "Pasos"

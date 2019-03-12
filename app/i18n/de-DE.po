@@ -1,0 +1,65 @@
+msgid "Active Minutes"
+msgstr "Aktive Minuten"
+
+msgid "Activity"
+msgstr "Aktivität"
+
+msgid "calorie"
+msgstr "KCAL"
+
+msgid "Calorie count"
+msgstr "Kalorienverbrauch"
+
+msgid "Calories burned"
+msgstr "Verbrannte Kalorien"
+
+msgid "challenge"
+msgstr "Wettkampf"
+
+msgid "Clock + Display"
+msgstr "Uhr + Display"
+
+msgid "clock face"
+msgstr "Uhranzeige"
+
+msgid "daily goal"
+msgstr "Tagesziel"
+
+msgid "daily stats"
+msgstr "Tagesstatistiken"
+
+msgid "daily target"
+msgstr "Tagesziel"
+
+msgid "Distance"
+msgstr "Strecke"
+
+msgid "exercise mode"
+msgstr "Aktivitätsmodus"
+
+msgid "exercise tracking"
+msgstr "Tracken deines Trainings"
+
+msgid "Floors"
+msgstr "Stockwerke"
+
+msgid "Floors climbed"
+msgstr "Etagen"
+
+msgid "Get more steps!"
+msgstr "Sammle mehr Schritte!"
+
+msgid "Goal"
+msgstr "Ziel"
+
+msgid "Heart rate"
+msgstr "Herzfrequenz"
+
+msgid "Resting Heart Rate"
+msgstr "Ruheherzfrequenz"
+
+msgid "stats"
+msgstr "Statistiken"
+
+msgid "Steps"
+msgstr "Schritte"

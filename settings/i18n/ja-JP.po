@@ -1,2 +1,2 @@
-msgid "hello_world"
-msgstr "こんにちは世界"
+msgid "Active Minutes"
+msgstr "活動的な時間（分）"

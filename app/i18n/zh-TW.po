@@ -1,0 +1,65 @@
+msgid "Active Minutes"
+msgstr "活動分鐘數"
+
+msgid "Activity"
+msgstr "活動"
+
+msgid "calorie"
+msgstr "卡路里"
+
+msgid "Calorie count"
+msgstr "卡路里燃燒量"
+
+msgid "Calories burned"
+msgstr "卡路里燃燒量"
+
+msgid "challenge"
+msgstr "挑戰"
+
+msgid "Clock + Display"
+msgstr "時鐘 + 顯示幕"
+
+msgid "clock face"
+msgstr "錶面"
+
+msgid "daily goal"
+msgstr "每日目標"
+
+msgid "daily stats"
+msgstr "每日統計資料"
+
+msgid "daily target"
+msgstr "每日目標"
+
+msgid "Distance"
+msgstr "距離"
+
+msgid "exercise mode"
+msgstr "運動模式"
+
+msgid "exercise tracking"
+msgstr "運動追蹤"
+
+msgid "Floors"
+msgstr "樓層數"
+
+msgid "Floors climbed"
+msgstr "攀爬樓層數"
+
+msgid "Get more steps!"
+msgstr "取得更多步數！"
+
+msgid "Goal"
+msgstr "目標"
+
+msgid "Heart rate"
+msgstr "心率"
+
+msgid "Resting Heart Rate"
+msgstr "靜息心率"
+
+msgid "stats"
+msgstr "統計資料"
+
+msgid "Steps"
+msgstr "步數"

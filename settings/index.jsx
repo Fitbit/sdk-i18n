@@ -1,9 +1,9 @@
-import { gettext } from 'i18n';
+import { gettext } from "i18n";
 
 function mySettings(props) {
   return (
     <Page>
-      <Text align="center">{gettext('hello_world')}</Text>
+      <Text align="center">{ gettext("Active Minutes") }</Text>
     </Page>
   );
 }

@@ -1,65 +1,65 @@
 msgid "Active Minutes"
-msgstr "Active Minutes"
+msgstr "Actieve minuten"
 
 msgid "Activity"
-msgstr "Activity"
+msgstr "Activiteit"
 
 msgid "calorie"
 msgstr "calorie"
 
 msgid "Calorie count"
-msgstr "Calorie count"
+msgstr "Calorieën tellen"
 
 msgid "Calories burned"
-msgstr "Calories burned"
+msgstr "Calorieën verbrand"
 
 msgid "challenge"
-msgstr "challenge"
+msgstr "uitdaging"
 
 msgid "Clock + Display"
-msgstr "Clock + Display"
+msgstr "Klok + weergave"
 
 msgid "clock face"
-msgstr "clock face"
+msgstr "wijzerplaat"
 
 msgid "daily goal"
-msgstr "daily goal"
+msgstr "dagelijkse doel"
 
 msgid "daily stats"
-msgstr "daily stats"
+msgstr "dagelijkse statistieken"
 
 msgid "daily target"
-msgstr "daily target"
+msgstr "dagelijks doelwit"
 
 msgid "Distance"
-msgstr "Distance"
+msgstr "Afstand"
 
 msgid "exercise mode"
-msgstr "exercise mode"
+msgstr "trainingsmodus"
 
 msgid "exercise tracking"
-msgstr "exercise tracking"
+msgstr "oefening volgen"
 
 msgid "Floors"
-msgstr "Floors"
+msgstr "vloeren"
 
 msgid "Floors climbed"
-msgstr "Floors climbed"
+msgstr "Vloeren klommen"
 
 msgid "Get more steps!"
-msgstr "Get more steps!"
+msgstr "Krijg meer stappen!"
 
 msgid "Goal"
-msgstr "Goal"
+msgstr "Doel"
 
 msgid "Heart rate"
-msgstr "Heart rate"
+msgstr "Hartslag"
 
 msgid "Resting Heart Rate"
-msgstr "Resting Heart Rate"
+msgstr "Rustende hartslag"
 
 msgid "stats"
 msgstr "stats"
 
 msgid "Steps"
-msgstr "Steps"
+msgstr "Stappen"

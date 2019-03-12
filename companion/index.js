@@ -1,3 +1,3 @@
-import { gettext } from 'i18n';
+import { gettext } from "i18n";
 
-console.log(gettext('hello_world'));
+console.log(gettext("Active Minutes"));
