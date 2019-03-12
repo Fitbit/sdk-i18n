@@ -1,0 +1,65 @@
+msgid "Active Minutes"
+msgstr "활동적 시간(분)"
+
+msgid "Activity"
+msgstr "활동"
+
+msgid "calorie"
+msgstr "칼로리"
+
+msgid "Calorie count"
+msgstr "칼로리 소모량"
+
+msgid "Calories burned"
+msgstr "칼로리 소모량"
+
+msgid "challenge"
+msgstr "챌린지"
+
+msgid "Clock + Display"
+msgstr "시계 + 디스플레이"
+
+msgid "clock face"
+msgstr "시계 페이스"
+
+msgid "daily goal"
+msgstr "일일 목표"
+
+msgid "daily stats"
+msgstr "일일 통계"
+
+msgid "daily target"
+msgstr "일일 목표"
+
+msgid "Distance"
+msgstr "이동 거리"
+
+msgid "exercise mode"
+msgstr "운동 모드"
+
+msgid "exercise tracking"
+msgstr "운동 모니터링"
+
+msgid "Floors"
+msgstr "층수"
+
+msgid "Floors climbed"
+msgstr "오른 층수"
+
+msgid "Get more steps!"
+msgstr "더 걸으세요!"
+
+msgid "Goal"
+msgstr "목표"
+
+msgid "Heart rate"
+msgstr "심박수"
+
+msgid "Resting Heart Rate"
+msgstr "안정시 심박수"
+
+msgid "stats"
+msgstr "통계"
+
+msgid "Steps"
+msgstr "걸음 수"

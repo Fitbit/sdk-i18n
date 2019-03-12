@@ -1,2 +1,65 @@
-msgid "hello_world"
-msgstr "こんにちは世界"
+msgid "Active Minutes"
+msgstr "活動的な時間（分）"
+
+msgid "Activity"
+msgstr "アクティビティ"
+
+msgid "calorie"
+msgstr "カロリー"
+
+msgid "Calorie count"
+msgstr "消費カロリー"
+
+msgid "Calories burned"
+msgstr "消費カロリー"
+
+msgid "challenge"
+msgstr "チャレンジ"
+
+msgid "Clock + Display"
+msgstr "時計 + ディスプレイ"
+
+msgid "clock face"
+msgstr "時計の文字盤"
+
+msgid "daily goal"
+msgstr "今日の目標"
+
+msgid "daily stats"
+msgstr "一日単位のデータ"
+
+msgid "daily target"
+msgstr "今日の目標"
+
+msgid "Distance"
+msgstr "距離"
+
+msgid "exercise mode"
+msgstr "エクササイズ モード"
+
+msgid "exercise tracking"
+msgstr "運動管理"
+
+msgid "Floors"
+msgstr "階"
+
+msgid "Floors climbed"
+msgstr "上った階数"
+
+msgid "Get more steps!"
+msgstr "もっと歩きましょう！"
+
+msgid "Goal"
+msgstr "目標　　ゴール"
+
+msgid "Heart rate"
+msgstr "心拍数"
+
+msgid "Resting Heart Rate"
+msgstr "安静時の心拍数"
+
+msgid "stats"
+msgstr "データ"
+
+msgid "Steps"
+msgstr "歩"

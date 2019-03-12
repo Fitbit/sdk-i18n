@@ -1,0 +1,2 @@
+msgid "Active Minutes"
+msgstr "활동적 시간(분)"

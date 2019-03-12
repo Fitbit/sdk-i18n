@@ -1,2 +1,2 @@
-msgid "hello_world"
-msgstr "Bonjour monde"
+msgid "Active Minutes"
+msgstr "Les minutes actives"

@@ -1,0 +1,65 @@
+msgid "Active Minutes"
+msgstr "Aktiva protokoll"
+
+msgid "Activity"
+msgstr "Aktivitet"
+
+msgid "calorie"
+msgstr "kalori"
+
+msgid "Calorie count"
+msgstr "Kaloriantal"
+
+msgid "Calories burned"
+msgstr "Kalorier brända"
+
+msgid "challenge"
+msgstr "utmaning"
+
+msgid "Clock + Display"
+msgstr "Klocka + Display"
+
+msgid "clock face"
+msgstr "klockansikte"
+
+msgid "daily goal"
+msgstr "dagligt mål"
+
+msgid "daily stats"
+msgstr "daglig statistik"
+
+msgid "daily target"
+msgstr "dagligt mål"
+
+msgid "Distance"
+msgstr "Distans"
+
+msgid "exercise mode"
+msgstr "träningsläge"
+
+msgid "exercise tracking"
+msgstr "träningspassage"
+
+msgid "Floors"
+msgstr "golv"
+
+msgid "Floors climbed"
+msgstr "Golv klättrade"
+
+msgid "Get more steps!"
+msgstr "Få fler steg!"
+
+msgid "Goal"
+msgstr "Mål"
+
+msgid "Heart rate"
+msgstr "Hjärtfrekvens"
+
+msgid "Resting Heart Rate"
+msgstr "Vila hjärtfrekvens"
+
+msgid "stats"
+msgstr "statistik"
+
+msgid "Steps"
+msgstr "Steg"
