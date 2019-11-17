@@ -2,8 +2,8 @@
   "name": "sdk-i18n",
   "version": "0.1.0",
   "devDependencies": {
-    "@fitbit/sdk": "~3.1.0",
-    "@fitbit/sdk-cli": "^1.6.0"
+    "@fitbit/sdk": "~4.0.0",
+    "@fitbit/sdk-cli": "^1.7.0"
   },
   "fitbit": {
     "appUUID": "c389a9b3-bd8b-44a8-840b-7fb9bf5fdfb8",
@@ -15,7 +15,8 @@
     "buildTargets": [
       "higgs",
       "meson",
-      "gemini"
+      "gemini",
+      "mira"
     ],
     "defaultLanguage": "en-US"
   },

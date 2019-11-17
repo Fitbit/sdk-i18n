@@ -63,3 +63,64 @@ msgstr "stats"
 
 msgid "Steps"
 msgstr "Stappen"
+
+msgid "day_month_separator"
+msgstr ""
+
+msgid "month_short_0"
+msgstr "jan"
+
+msgid "month_short_1"
+msgstr "feb"
+
+msgid "month_short_2"
+msgstr "mrt"
+
+msgid "month_short_3"
+msgstr "apr"
+
+msgid "month_short_4"
+msgstr "mei"
+
+msgid "month_short_5"
+msgstr "jun"
+
+msgid "month_short_6"
+msgstr "jul"
+
+msgid "month_short_7"
+msgstr "aug"
+
+msgid "month_short_8"
+msgstr "sep"
+
+msgid "month_short_9"
+msgstr "okt"
+
+msgid "month_short_10"
+msgstr "nov"
+
+msgid "month_short_11"
+msgstr "dec"
+
+msgid "day_short_0"
+msgstr "Zo"
+
+msgid "day_short_1"
+msgstr "Ma"
+
+msgid "day_short_2"
+msgstr "Di"
+
+msgid "day_short_3"
+msgstr "Wo"
+
+msgid "day_short_4"
+msgstr "Do"
+
+msgid "day_short_5"
+msgstr "Vr"
+
+msgid "day_short_6"
+msgstr "Za"
+

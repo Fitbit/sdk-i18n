@@ -63,3 +63,64 @@ msgstr "통계"
 
 msgid "Steps"
 msgstr "걸음 수"
+
+msgid "day_month_separator"
+msgstr "/"
+
+msgid "month_short_0"
+msgstr "1월"
+
+msgid "month_short_1"
+msgstr "2월"
+
+msgid "month_short_2"
+msgstr "3월"
+
+msgid "month_short_3"
+msgstr "4월"
+
+msgid "month_short_4"
+msgstr "5월"
+
+msgid "month_short_5"
+msgstr "6월"
+
+msgid "month_short_6"
+msgstr "7월"
+
+msgid "month_short_7"
+msgstr "8월"
+
+msgid "month_short_8"
+msgstr "9월"
+
+msgid "month_short_9"
+msgstr "10월"
+
+msgid "month_short_10"
+msgstr "11월"
+
+msgid "month_short_11"
+msgstr "12월"
+
+msgid "day_short_0"
+msgstr "일"
+
+msgid "day_short_1"
+msgstr "월"
+
+msgid "day_short_2"
+msgstr "화"
+
+msgid "day_short_3"
+msgstr "수"
+
+msgid "day_short_4"
+msgstr "목"
+
+msgid "day_short_5"
+msgstr "금"
+
+msgid "day_short_6"
+msgstr "토"
+

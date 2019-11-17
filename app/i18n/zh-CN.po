@@ -63,3 +63,64 @@ msgstr "统计数据"
 
 msgid "Steps"
 msgstr "步数"
+
+msgid "day_month_separator"
+msgstr ""
+
+msgid "month_short_0"
+msgstr "1月"
+
+msgid "month_short_1"
+msgstr "2月"
+
+msgid "month_short_2"
+msgstr "3月"
+
+msgid "month_short_3"
+msgstr "4月"
+
+msgid "month_short_4"
+msgstr "5月"
+
+msgid "month_short_5"
+msgstr "6月"
+
+msgid "month_short_6"
+msgstr "7月"
+
+msgid "month_short_7"
+msgstr "8月"
+
+msgid "month_short_8"
+msgstr "9月"
+
+msgid "month_short_9"
+msgstr "10月"
+
+msgid "month_short_10"
+msgstr "11月"
+
+msgid "month_short_11"
+msgstr "12月"
+
+msgid "day_short_0"
+msgstr "日"
+
+msgid "day_short_1"
+msgstr "一"
+
+msgid "day_short_2"
+msgstr "二"
+
+msgid "day_short_3"
+msgstr "三"
+
+msgid "day_short_4"
+msgstr "四"
+
+msgid "day_short_5"
+msgstr "五"
+
+msgid "day_short_6"
+msgstr "六"
+

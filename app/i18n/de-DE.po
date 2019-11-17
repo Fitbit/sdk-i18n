@@ -63,3 +63,64 @@ msgstr "Statistiken"
 
 msgid "Steps"
 msgstr "Schritte"
+
+msgid "day_month_separator"
+msgstr ""
+
+msgid "month_short_0"
+msgstr "Jan"
+
+msgid "month_short_1"
+msgstr "Feb"
+
+msgid "month_short_2"
+msgstr "Mrz"
+
+msgid "month_short_3"
+msgstr "Apr"
+
+msgid "month_short_4"
+msgstr "Mai"
+
+msgid "month_short_5"
+msgstr "Jun"
+
+msgid "month_short_6"
+msgstr "Jul"
+
+msgid "month_short_7"
+msgstr "Aug"
+
+msgid "month_short_8"
+msgstr "Sep"
+
+msgid "month_short_9"
+msgstr "Okt"
+
+msgid "month_short_10"
+msgstr "Nov"
+
+msgid "month_short_11"
+msgstr "Dez"
+
+msgid "day_short_0"
+msgstr "So"
+
+msgid "day_short_1"
+msgstr "Mo"
+
+msgid "day_short_2"
+msgstr "Di"
+
+msgid "day_short_3"
+msgstr "Mi"
+
+msgid "day_short_4"
+msgstr "Do"
+
+msgid "day_short_5"
+msgstr "Fr"
+
+msgid "day_short_6"
+msgstr "Sa"
+
