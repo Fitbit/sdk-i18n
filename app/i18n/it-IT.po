@@ -63,3 +63,66 @@ msgstr "Stat"
 
 msgid "Steps"
 msgstr "Passi"
+
+msgid "day_month_separator"
+msgstr ""
+
+msgid "month_short_0"
+msgstr "gen"
+
+msgid "month_short_1"
+msgstr "feb"
+
+msgid "month_short_2"
+msgstr "mar"
+
+msgid "month_short_3"
+msgstr "apr"
+
+msgid "month_short_4"
+msgstr "mag"
+
+msgid "month_short_5"
+msgstr "giu"
+
+msgid "month_short_6"
+msgstr "lug"
+
+msgid "month_short_7"
+msgstr "ago"
+
+msgid "month_short_8"
+msgstr "set"
+
+msgid "month_short_9"
+msgstr "ott"
+
+msgid "month_short_10"
+msgstr "nov"
+
+msgid "month_short_11"
+msgstr "dic"
+
+msgid "day_short_0"
+msgstr "Dom"
+
+msgid "day_short_1"
+msgstr "Lun"
+
+msgid "day_short_2"
+msgstr "Mar"
+
+msgid "day_short_3"
+msgstr "Mer"
+
+msgid "day_short_4"
+msgstr "Gio"
+
+msgid "day_short_5"
+msgstr "Ven"
+
+msgid "day_short_6"
+msgstr "Sab"
+
+msgid "day_month_separator"
+msgstr ""

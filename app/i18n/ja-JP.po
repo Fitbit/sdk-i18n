@@ -63,3 +63,64 @@ msgstr "データ"
 
 msgid "Steps"
 msgstr "歩"
+
+msgid "day_month_separator"
+msgstr ""
+
+msgid "month_short_0"
+msgstr "1 月"
+
+msgid "month_short_1"
+msgstr "2 月"
+
+msgid "month_short_2"
+msgstr "3 月"
+
+msgid "month_short_3"
+msgstr "4 月"
+
+msgid "month_short_4"
+msgstr "5 月"
+
+msgid "month_short_5"
+msgstr "6 月"
+
+msgid "month_short_6"
+msgstr "7 月"
+
+msgid "month_short_7"
+msgstr "8 月"
+
+msgid "month_short_8"
+msgstr "9 月"
+
+msgid "month_short_9"
+msgstr "10 月"
+
+msgid "month_short_10"
+msgstr "11 月"
+
+msgid "month_short_11"
+msgstr "12 月"
+
+msgid "day_short_0"
+msgstr "日"
+
+msgid "day_short_1"
+msgstr "月"
+
+msgid "day_short_2"
+msgstr "火"
+
+msgid "day_short_3"
+msgstr "水"
+
+msgid "day_short_4"
+msgstr "木"
+
+msgid "day_short_5"
+msgstr "金"
+
+msgid "day_short_6"
+msgstr "土"
+

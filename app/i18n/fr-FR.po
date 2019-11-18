@@ -63,3 +63,64 @@ msgstr "statistiques"
 
 msgid "Steps"
 msgstr "Pas"
+
+msgid "day_month_separator"
+msgstr ""
+
+msgid "month_short_0"
+msgstr "janv."
+
+msgid "month_short_1"
+msgstr "févr."
+
+msgid "month_short_2"
+msgstr "mars"
+
+msgid "month_short_3"
+msgstr "avr."
+
+msgid "month_short_4"
+msgstr "mai"
+
+msgid "month_short_5"
+msgstr "juin"
+
+msgid "month_short_6"
+msgstr "juill."
+
+msgid "month_short_7"
+msgstr "août"
+
+msgid "month_short_8"
+msgstr "sept."
+
+msgid "month_short_9"
+msgstr "oct."
+
+msgid "month_short_10"
+msgstr "nov."
+
+msgid "month_short_11"
+msgstr "déc."
+
+msgid "day_short_0"
+msgstr "Dim."
+
+msgid "day_short_1"
+msgstr "Lun."
+
+msgid "day_short_2"
+msgstr "Mar."
+
+msgid "day_short_3"
+msgstr "Mercr."
+
+msgid "day_short_4"
+msgstr "Jeu."
+
+msgid "day_short_5"
+msgstr "Ven."
+
+msgid "day_short_6"
+msgstr "Sam."
+
