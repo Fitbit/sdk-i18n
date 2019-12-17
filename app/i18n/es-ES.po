@@ -104,23 +104,23 @@ msgid "month_short_11"
 msgstr "dic."
 
 msgid "day_short_0"
-msgstr "dom"
+msgstr "Dom"
 
 msgid "day_short_1"
-msgstr "lun"
+msgstr "Lun"
 
 msgid "day_short_2"
-msgstr "mar"
+msgstr "Mar"
 
 msgid "day_short_3"
-msgstr "mié"
+msgstr "Mié"
 
 msgid "day_short_4"
-msgstr "jue"
+msgstr "Jue"
 
 msgid "day_short_5"
-msgstr "vie"
+msgstr "Vie"
 
 msgid "day_short_6"
-msgstr "sáb"
+msgstr "Sáb"
 
