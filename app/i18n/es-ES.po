@@ -5,7 +5,7 @@ msgid "Activity"
 msgstr "Actividad"
 
 msgid "calorie"
-msgstr "CALORÍA"
+msgstr "caloría"
 
 msgid "Calorie count"
 msgstr "Recuento de calorías"
@@ -44,7 +44,7 @@ msgid "Floors"
 msgstr "Plantas"
 
 msgid "Floors climbed"
-msgstr "Las plantas subidas"
+msgstr "Plantas subidas"
 
 msgid "Get more steps!"
 msgstr "¡Da más pasos!"
@@ -53,10 +53,10 @@ msgid "Goal"
 msgstr "Objetivo"
 
 msgid "Heart rate"
-msgstr "Ritmo cardiaco"
+msgstr "Ritmo cardíaco"
 
 msgid "Resting Heart Rate"
-msgstr "Ritmo cardiaco en reposo"
+msgstr "Ritmo cardíaco en reposo"
 
 msgid "stats"
 msgstr "estadísticas"
@@ -104,22 +104,22 @@ msgid "month_short_11"
 msgstr "dic."
 
 msgid "day_short_0"
-msgstr "Dom"
+msgstr "dom"
 
 msgid "day_short_1"
-msgstr "Lun"
+msgstr "lun"
 
 msgid "day_short_2"
-msgstr "Mar"
+msgstr "mar"
 
 msgid "day_short_3"
-msgstr "Mié"
+msgstr "mié"
 
 msgid "day_short_4"
-msgstr "Jue"
+msgstr "jue"
 
 msgid "day_short_5"
-msgstr "Vie"
+msgstr "vie"
 
 msgid "day_short_6"
 msgstr "sáb"
