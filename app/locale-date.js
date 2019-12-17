@@ -1,6 +1,9 @@
 import { locale } from "user-settings";
 import { gettext } from "i18n";
 
+/**
+ * @param {Date} date
+ */
 export function localizedDate(date) {
   const monthNum = date.getMonth();
   const monthName = gettext(`month_short_${monthNum}`);
