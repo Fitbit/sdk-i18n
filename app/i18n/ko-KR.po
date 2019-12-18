@@ -103,6 +103,42 @@ msgstr "11월"
 msgid "month_short_11"
 msgstr "12월"
 
+msgid "month_long_0"
+msgstr "1월"
+
+msgid "month_long_1"
+msgstr "2월"
+
+msgid "month_long_2"
+msgstr "3월"
+
+msgid "month_long_3"
+msgstr "4월"
+
+msgid "month_long_4"
+msgstr "5월"
+
+msgid "month_long_5"
+msgstr "6월"
+
+msgid "month_long_6"
+msgstr "7월"
+
+msgid "month_long_7"
+msgstr "8월"
+
+msgid "month_long_8"
+msgstr "9월"
+
+msgid "month_long_9"
+msgstr "10월"
+
+msgid "month_long_10"
+msgstr "11월"
+
+msgid "month_long_11"
+msgstr "12월"
+
 msgid "day_short_0"
 msgstr "일"
 

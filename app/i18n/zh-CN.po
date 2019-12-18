@@ -103,6 +103,42 @@ msgstr "11月"
 msgid "month_short_11"
 msgstr "12月"
 
+msgid "month_long_0"
+msgstr "一月"
+
+msgid "month_long_1"
+msgstr "二月"
+
+msgid "month_long_2"
+msgstr "三月"
+
+msgid "month_long_3"
+msgstr "四月"
+
+msgid "month_long_4"
+msgstr "五月"
+
+msgid "month_long_5"
+msgstr "六月"
+
+msgid "month_long_6"
+msgstr "七月"
+
+msgid "month_long_7"
+msgstr "八月"
+
+msgid "month_long_8"
+msgstr "九月"
+
+msgid "month_long_9"
+msgstr "十月"
+
+msgid "month_long_10"
+msgstr "十一月"
+
+msgid "month_long_11"
+msgstr "十二月"
+
 msgid "day_short_0"
 msgstr "日"
 

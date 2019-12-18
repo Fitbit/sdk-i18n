@@ -103,6 +103,42 @@ msgstr "Nov"
 msgid "month_short_11"
 msgstr "Dec"
 
+msgid "month_long_0"
+msgstr "January"
+
+msgid "month_long_1"
+msgstr "February"
+
+msgid "month_long_2"
+msgstr "March"
+
+msgid "month_long_3"
+msgstr "April"
+
+msgid "month_long_4"
+msgstr "May"
+
+msgid "month_long_5"
+msgstr "June"
+
+msgid "month_long_6"
+msgstr "July"
+
+msgid "month_long_7"
+msgstr "August"
+
+msgid "month_long_8"
+msgstr "September"
+
+msgid "month_long_9"
+msgstr "October"
+
+msgid "month_long_10"
+msgstr "November"
+
+msgid "month_long_11"
+msgstr "December"
+
 msgid "day_short_0"
 msgstr "Sun"
 
