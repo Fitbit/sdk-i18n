@@ -160,5 +160,26 @@ msgstr "Ven"
 msgid "day_short_6"
 msgstr "Sab"
 
+msgid "day_long_0"
+msgstr "domenica"
+
+msgid "day_long_1"
+msgstr "lunedì"
+
+msgid "day_long_2"
+msgstr "martedì"
+
+msgid "day_long_3"
+msgstr "mercoledì"
+
+msgid "day_long_4"
+msgstr "giovedì"
+
+msgid "day_long_5"
+msgstr "venerdì"
+
+msgid "day_long_6"
+msgstr "sabato"
+
 msgid "day_month_separator"
 msgstr ""

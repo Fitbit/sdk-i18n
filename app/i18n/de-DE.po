@@ -160,3 +160,23 @@ msgstr "Fr"
 msgid "day_short_6"
 msgstr "Sa"
 
+msgid "day_long_0"
+msgstr "Sonntag"
+
+msgid "day_long_1"
+msgstr "Montag"
+
+msgid "day_long_2"
+msgstr "Dienstag"
+
+msgid "day_long_3"
+msgstr "Mittwoch"
+
+msgid "day_long_4"
+msgstr "Donnerstag"
+
+msgid "day_long_5"
+msgstr "Freitag"
+
+msgid "day_long_6"
+msgstr "Samstag"
