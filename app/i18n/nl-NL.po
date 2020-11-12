@@ -160,3 +160,23 @@ msgstr "Vr"
 msgid "day_short_6"
 msgstr "Za"
 
+msgid "day_long_0"
+msgstr "zondag"
+
+msgid "day_long_1"
+msgstr "maandag"
+
+msgid "day_long_2"
+msgstr "dinsdag"
+
+msgid "day_long_3"
+msgstr "woensdag"
+
+msgid "day_long_4"
+msgstr "donderdag"
+
+msgid "day_long_5"
+msgstr "vrijdag"
+
+msgid "day_long_6"
+msgstr "zaterdag"

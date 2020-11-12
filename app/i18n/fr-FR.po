@@ -160,3 +160,23 @@ msgstr "Ven."
 msgid "day_short_6"
 msgstr "Sam."
 
+msgid "day_long_0"
+msgstr "dimanche"
+
+msgid "day_long_1"
+msgstr "lundi"
+
+msgid "day_long_2"
+msgstr "mardi"
+
+msgid "day_long_3"
+msgstr "mercredi"
+
+msgid "day_long_4"
+msgstr "jeudi"
+
+msgid "day_long_5"
+msgstr "vendredi"
+
+msgid "day_long_6"
+msgstr "samedi"

@@ -160,3 +160,23 @@ msgstr "Vie"
 msgid "day_short_6"
 msgstr "Sáb"
 
+msgid "day_long_0"
+msgstr "Domingo"
+
+msgid "day_long_1"
+msgstr "lunes"
+
+msgid "day_long_2"
+msgstr "martes"
+
+msgid "day_long_3"
+msgstr "miércoles"
+
+msgid "day_long_4"
+msgstr "jueves"
+
+msgid "day_long_5"
+msgstr "viernes"
+
+msgid "day_long_6"
+msgstr "sábado"
